@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/animations.cpp \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/animations.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstguidebug.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/ianimationtarget.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cpoint.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstkeycode.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cbuttonstate.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cgraphicstransform.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cframe.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cviewcontainer.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cdrawdefs.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../optional.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../platform/iplatformframecallback.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../platform/../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/ccontrol.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../cview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../ifocusdrawing.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../idependency.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../dispatchlist.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/icontrollistener.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../controls/../cbuttonstate.h

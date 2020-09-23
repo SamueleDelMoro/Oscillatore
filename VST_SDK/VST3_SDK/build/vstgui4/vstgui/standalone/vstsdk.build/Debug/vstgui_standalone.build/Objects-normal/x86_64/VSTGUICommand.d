@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/VSTGUICommand.mm \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/VSTGUICommand.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../application.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/ialertbox.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/fwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/cstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/vstguidebug.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/optional.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/iplatformstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/../vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/interface.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/iapplication.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/iwindow.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/cpoint.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/icommand.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/iwindowlistener.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../platform/iplatformwindow.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../platform/../../../lib/platform/iplatformframe.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/../dragging.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/cbitmap.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/cresourcedescription.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/iplatformbitmap.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/cbuttonstate.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/idatapackage.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/../optional.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/../cstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../../include/../../lib/platform/iplatformframecallback.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../platform/../../include/icommand.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/standalone/source/platform/mac/../../platform/../../include/iwindow.h

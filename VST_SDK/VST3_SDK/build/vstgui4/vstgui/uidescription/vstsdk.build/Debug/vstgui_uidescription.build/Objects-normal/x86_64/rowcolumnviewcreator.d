@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/rowcolumnviewcreator.cpp \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/rowcolumnviewcreator.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/uiviewcreatorattributes.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../iuidescription.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/vstguidebug.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cfont.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/optional.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/platform/iplatformstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/platform/../vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../iviewcreator.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../../lib/crowcolumnview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cviewcontainer.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cpoint.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/vstkeycode.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cbuttonstate.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cgraphicstransform.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/cdrawdefs.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../uiattributes.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../../lib/platform/std_unorderedmap.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../uiviewcreator.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../uiviewfactory.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../iviewfactory.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/uidescription/viewcreator/../detail/../iviewcreator.h

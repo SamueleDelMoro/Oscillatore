@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/public.sdk/source/vst/vstinitiids.cpp \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/funknown.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/fplatform.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/ftypes.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/smartpointer.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstaudioprocessor.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstcomponent.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/ipluginbase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/fstrdefs.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/vsttypes.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/falignpush.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/falignpop.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/vstspeaker.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstautomationstate.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstchannelcontextinfo.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstattributes.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstcontextmenu.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivsteditcontroller.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstevents.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstprocesscontext.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstnoteexpression.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivsthostapplication.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstmessage.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstinterappaudio.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstmidilearn.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstparameterchanges.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstphysicalui.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstpluginterfacesupport.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstplugview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstprefetchablesupport.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstrepresentation.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivsttestplugprovider.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/base/istringresult.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/pluginterfaces/vst/ivstunits.h

@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/crowcolumnview.cpp \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/crowcolumnview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cviewcontainer.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/vstguidebug.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cview.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cpoint.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/vstkeycode.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cbuttonstate.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cgraphicstransform.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/cdrawdefs.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/animations.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/ianimationtarget.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/timingfunctions.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/animator.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/itimingfunction.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/animation/../cpoint.h

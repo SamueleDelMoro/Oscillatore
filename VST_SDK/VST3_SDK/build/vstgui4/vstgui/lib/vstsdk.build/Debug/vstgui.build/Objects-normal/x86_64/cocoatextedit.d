@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/cocoatextedit.mm \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/cocoatextedit.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformtextedit.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cfont.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstguifwd.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstguibase.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstguidebug.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../optional.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../platform/iplatformstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../ccolor.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../crect.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cpoint.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cdrawcontext.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cgraphicstransform.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../clinestyle.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../cdrawdefs.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/cocoahelpers.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/autoreleasepool.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../cfontmac.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformfont.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../macstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../iplatformstring.h \
+  /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/vstgui4/vstgui/lib/platform/mac/cocoa/../../../vstkeycode.h

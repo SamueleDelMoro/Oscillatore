@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		38FE464FBB9E486593293464 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 0E5D6175AB52467B9B6A9683 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				2B772A8D60014101AC0A0224 /* CMake Rules */,
+			);
+			dependencies = (
+				0F626E5B7A0143AF8570A7C8 /* PBXTargetDependency */,
+				439CE48A855842CDA5EF3CF5 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+		F37EC24201394632BBB73278 /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 92954FE6E967459CA9D62D81 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				0D7A5B80FF80445A982A83E3 /* CMake Rules */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0998F35FAC8C467585B9A474 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.cpp */ = {isa = PBXBuildFile; fileRef = 18A085A2A546468092EF7EA9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.cpp */; };
+		0F0BDD427600446DA5955E1A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/fcondition.h */ = {isa = PBXBuildFile; fileRef = D7EA6D5592344857959ED637 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/fcondition.h */; };
+		109500B08FD5458DA49E6159 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.h */ = {isa = PBXBuildFile; fileRef = 9A692700D59D4D19BD5C4288 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.h */; };
+		1A1A93F56CE64706AAE6E5D0 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.cpp */ = {isa = PBXBuildFile; fileRef = A1D94A44A7F94B22A25F5D37 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.cpp */; };
+		26B46BCB93DB41839D93B064 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.h */ = {isa = PBXBuildFile; fileRef = 166B445A442F4F27B24C0F4D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.h */; };
+		2F1123A884E84B348163C2C3 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.cpp */ = {isa = PBXBuildFile; fileRef = 29DAE428DCE5421B98A04490 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.cpp */; };
+		35613B1542E347BDB9C17238 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.h */ = {isa = PBXBuildFile; fileRef = 5C66AD68621841BB96DB5C84 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.h */; };
+		3A0FA52E99A24812B17A4858 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.cpp */ = {isa = PBXBuildFile; fileRef = 710AF3EFF2484A5B80AA94E9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.cpp */; };
+		4EC4CE36598C443195019121 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.h */ = {isa = PBXBuildFile; fileRef = 9A6C4C921E964131B9112B8D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.h */; };
+		57A2A73D05B445839223F7A2 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/fcondition.cpp */ = {isa = PBXBuildFile; fileRef = C2E9FF4D6BBF4EA2911DC38A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/fcondition.cpp */; };
+		58D483A825A34F86BEF6DB6B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.cpp */ = {isa = PBXBuildFile; fileRef = 8235514BE54E457C84EB24AE /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.cpp */; };
+		5E9936953F6A48FBAEFD9873 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/classfactoryhelpers.h */ = {isa = PBXBuildFile; fileRef = A954DDBB8AE64B0CB637FDEC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/classfactoryhelpers.h */; };
+		5EE462AF86534E76BDF559CE /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.cpp */ = {isa = PBXBuildFile; fileRef = 7CB62F9D510E4A7D94944C83 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.cpp */; };
+		630E4181B663425EA5D2B656 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.h */ = {isa = PBXBuildFile; fileRef = 89928C21B9A84DD087C8E478 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.h */; };
+		673AFAF23EB74BCE8A6318E6 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/baseiids.cpp */ = {isa = PBXBuildFile; fileRef = 0ACBA58FB682468EA54186DC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/baseiids.cpp */; };
+		699328BFC0364ECAA461B81E /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.h */ = {isa = PBXBuildFile; fileRef = 8049100ABC264EE3AAAEFC1B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.h */; };
+		6F1EF42D1B8248EEB4A38074 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.cpp */ = {isa = PBXBuildFile; fileRef = 1896CAD2CAF24E2A8B1BFAE3 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.cpp */; };
+		7C95D110B80140DDBDAE9DE1 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcommandline.h */ = {isa = PBXBuildFile; fileRef = CEAC2F4E4C8D4A4CACB7DDD1 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcommandline.h */; };
+		827C03EAD66E4C3EAB44291E /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/flock.h */ = {isa = PBXBuildFile; fileRef = 29BA4F7744A348F3B2D98F2B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/flock.h */; };
+		9BC7F92C919B4715A912D4CA /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.h */ = {isa = PBXBuildFile; fileRef = 668ABE4824EF4113820E0F1A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.h */; };
+		B6D86AD39A90428CBDE0AE23 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = F0F92A3F92D64D368E2B392E /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */; };
+		C250F81BC89749B09E3A8BA9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/flock.cpp */ = {isa = PBXBuildFile; fileRef = 91BEA018F1D547BD89561157 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/flock.cpp */; };
+		C5418DD84FCD4068AE09B64B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.h */ = {isa = PBXBuildFile; fileRef = 235D18CF91DE47648B42344A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.h */; };
+		CA52D593C5B8403FA1B6CC4B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.cpp */ = {isa = PBXBuildFile; fileRef = A0795BDC5BB34F2195154F05 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.cpp */; };
+		D1EE1BC2453B435A9C5324EF /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcleanup.h */ = {isa = PBXBuildFile; fileRef = 362F27690E0B4E299115263F /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcleanup.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		20087360630D4AF2B8E6F95A /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+		40C3FD481C90479FBE3A63A8 /* Debug */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		231BCC66B92D446CB6C9EA12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1BCFD70855E34536BB2C50CE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E2640418859E4C6EB124FE84;
+			remoteInfo = base;
+		};
+		750A4317CC1148139D8CE14A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1BCFD70855E34536BB2C50CE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F37EC24201394632BBB73278;
+			remoteInfo = ZERO_CHECK;
+		};
+		F695A24D0063494EA7BF3FCF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1BCFD70855E34536BB2C50CE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F37EC24201394632BBB73278;
+			remoteInfo = ZERO_CHECK;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0ACBA58FB682468EA54186DC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/baseiids.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = baseiids.cpp; path = source/baseiids.cpp; sourceTree = SOURCE_ROOT; };
+		166B445A442F4F27B24C0F4D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fstreamer.h; path = source/fstreamer.h; sourceTree = SOURCE_ROOT; };
+		1896CAD2CAF24E2A8B1BFAE3 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fbuffer.cpp; path = source/fbuffer.cpp; sourceTree = SOURCE_ROOT; };
+		18A085A2A546468092EF7EA9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fdebug.cpp; path = source/fdebug.cpp; sourceTree = SOURCE_ROOT; };
+		235D18CF91DE47648B42344A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = timer.h; path = source/timer.h; sourceTree = SOURCE_ROOT; };
+		29BA4F7744A348F3B2D98F2B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/flock.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = flock.h; path = thread/include/flock.h; sourceTree = SOURCE_ROOT; };
+		29DAE428DCE5421B98A04490 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fobject.cpp; path = source/fobject.cpp; sourceTree = SOURCE_ROOT; };
+		362F27690E0B4E299115263F /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcleanup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fcleanup.h; path = source/fcleanup.h; sourceTree = SOURCE_ROOT; };
+		5C66AD68621841BB96DB5C84 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fbuffer.h; path = source/fbuffer.h; sourceTree = SOURCE_ROOT; };
+		668ABE4824EF4113820E0F1A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fdebug.h; path = source/fdebug.h; sourceTree = SOURCE_ROOT; };
+		710AF3EFF2484A5B80AA94E9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fstreamer.cpp; path = source/fstreamer.cpp; sourceTree = SOURCE_ROOT; };
+		7CB62F9D510E4A7D94944C83 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fstring.cpp; path = source/fstring.cpp; sourceTree = SOURCE_ROOT; };
+		8049100ABC264EE3AAAEFC1B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fdynlib.h; path = source/fdynlib.h; sourceTree = SOURCE_ROOT; };
+		8235514BE54E457C84EB24AE /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = updatehandler.cpp; path = source/updatehandler.cpp; sourceTree = SOURCE_ROOT; };
+		89928C21B9A84DD087C8E478 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fstring.h; path = source/fstring.h; sourceTree = SOURCE_ROOT; };
+		91BEA018F1D547BD89561157 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/flock.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = flock.cpp; path = thread/source/flock.cpp; sourceTree = SOURCE_ROOT; };
+		9A692700D59D4D19BD5C4288 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = updatehandler.h; path = source/updatehandler.h; sourceTree = SOURCE_ROOT; };
+		9A6C4C921E964131B9112B8D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fobject.h; path = source/fobject.h; sourceTree = SOURCE_ROOT; };
+		A0795BDC5BB34F2195154F05 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fdynlib.cpp; path = source/fdynlib.cpp; sourceTree = SOURCE_ROOT; };
+		A1D94A44A7F94B22A25F5D37 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = timer.cpp; path = source/timer.cpp; sourceTree = SOURCE_ROOT; };
+		A954DDBB8AE64B0CB637FDEC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/classfactoryhelpers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = classfactoryhelpers.h; path = source/classfactoryhelpers.h; sourceTree = SOURCE_ROOT; };
+		C2E9FF4D6BBF4EA2911DC38A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/fcondition.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fcondition.cpp; path = thread/source/fcondition.cpp; sourceTree = SOURCE_ROOT; };
+		C3639F420CA9407598ED6E73 /* base */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libbase.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEAC2F4E4C8D4A4CACB7DDD1 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcommandline.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fcommandline.h; path = source/fcommandline.h; sourceTree = SOURCE_ROOT; };
+		D54436A5A29F4E9192487AF6 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		D7EA6D5592344857959ED637 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/fcondition.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fcondition.h; path = thread/include/fcondition.h; sourceTree = SOURCE_ROOT; };
+		F0F92A3F92D64D368E2B392E /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		20BA038122614DBBBFEF6488 = {
+			isa = PBXGroup;
+			children = (
+				2F87BE93E34B4F22A64305F9 /* Libraries */,
+				D4C1EAAB9A3749DE8B383D9B /* ALL_BUILD */,
+				413848C8A388450D9ABF3BB1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2F87BE93E34B4F22A64305F9 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				71A43814F3E041BE8562B9AC /* base */,
+			);
+			name = Libraries;
+			sourceTree = "<group>";
+		};
+		413848C8A388450D9ABF3BB1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C3639F420CA9407598ED6E73 /* base */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		71218F373DE346D983770722 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				0ACBA58FB682468EA54186DC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/baseiids.cpp */,
+				1896CAD2CAF24E2A8B1BFAE3 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.cpp */,
+				18A085A2A546468092EF7EA9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.cpp */,
+				A0795BDC5BB34F2195154F05 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.cpp */,
+				29DAE428DCE5421B98A04490 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.cpp */,
+				710AF3EFF2484A5B80AA94E9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.cpp */,
+				7CB62F9D510E4A7D94944C83 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.cpp */,
+				A1D94A44A7F94B22A25F5D37 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.cpp */,
+				8235514BE54E457C84EB24AE /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.cpp */,
+				C2E9FF4D6BBF4EA2911DC38A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/fcondition.cpp */,
+				91BEA018F1D547BD89561157 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/flock.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		71A43814F3E041BE8562B9AC /* base */ = {
+			isa = PBXGroup;
+			children = (
+				71218F373DE346D983770722 /* Source Files */,
+				CD3C061138FB4594B5D2A1E3 /* Header Files */,
+				F0F92A3F92D64D368E2B392E /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */,
+			);
+			name = base;
+			sourceTree = "<group>";
+		};
+		CD3C061138FB4594B5D2A1E3 /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				A954DDBB8AE64B0CB637FDEC /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/classfactoryhelpers.h */,
+				5C66AD68621841BB96DB5C84 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.h */,
+				362F27690E0B4E299115263F /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcleanup.h */,
+				CEAC2F4E4C8D4A4CACB7DDD1 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fcommandline.h */,
+				668ABE4824EF4113820E0F1A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.h */,
+				8049100ABC264EE3AAAEFC1B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.h */,
+				9A6C4C921E964131B9112B8D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.h */,
+				166B445A442F4F27B24C0F4D /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.h */,
+				89928C21B9A84DD087C8E478 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.h */,
+				235D18CF91DE47648B42344A /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.h */,
+				9A692700D59D4D19BD5C4288 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.h */,
+				D7EA6D5592344857959ED637 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/fcondition.h */,
+				29BA4F7744A348F3B2D98F2B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/include/flock.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		D4C1EAAB9A3749DE8B383D9B /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				F50503A9A3A44C58B7EDCD29 /* CMake Rules */,
+				D54436A5A29F4E9192487AF6 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+		F50503A9A3A44C58B7EDCD29 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E2640418859E4C6EB124FE84 /* base */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F4D7B3258A6643EFAE8CE48D /* Build configuration list for PBXNativeTarget "base" */;
+			buildPhases = (
+				19D93AD654634A76BBD476F4 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				588D1913714247D6A63F2B91 /* PBXTargetDependency */,
+			);
+			name = base;
+			productName = base;
+			productReference = C3639F420CA9407598ED6E73 /* base */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1BCFD70855E34536BB2C50CE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1130;
+			};
+			buildConfigurationList = 5A1EFF1E61C3487C9DD66036 /* Build configuration list for PBXProject "smtg_base" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				40C3FD481C90479FBE3A63A8 /* Debug */,
+				20087360630D4AF2B8E6F95A /* Release */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 20BA038122614DBBBFEF6488;
+			projectDirPath = ../../base;
+			projectRoot = "";
+			targets = (
+				38FE464FBB9E486593293464 /* ALL_BUILD */,
+				F37EC24201394632BBB73278 /* ZERO_CHECK */,
+				E2640418859E4C6EB124FE84 /* base */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0D7A5B80FF80445A982A83E3 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base -f /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		1F8493CD7F1C4E73B3A81452 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		2B772A8D60014101AC0A0224 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base -f /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		A7AF889BED25402FB18EC1F9 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		19D93AD654634A76BBD476F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				673AFAF23EB74BCE8A6318E6 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/baseiids.cpp */,
+				6F1EF42D1B8248EEB4A38074 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fbuffer.cpp */,
+				0998F35FAC8C467585B9A474 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdebug.cpp */,
+				CA52D593C5B8403FA1B6CC4B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fdynlib.cpp */,
+				2F1123A884E84B348163C2C3 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fobject.cpp */,
+				3A0FA52E99A24812B17A4858 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstreamer.cpp */,
+				5EE462AF86534E76BDF559CE /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/fstring.cpp */,
+				1A1A93F56CE64706AAE6E5D0 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/timer.cpp */,
+				58D483A825A34F86BEF6DB6B /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/source/updatehandler.cpp */,
+				57A2A73D05B445839223F7A2 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/fcondition.cpp */,
+				C250F81BC89749B09E3A8BA9 /* /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/thread/source/flock.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0F626E5B7A0143AF8570A7C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E2640418859E4C6EB124FE84 /* base */;
+			targetProxy = 231BCC66B92D446CB6C9EA12 /* PBXContainerItemProxy */;
+		};
+		439CE48A855842CDA5EF3CF5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F37EC24201394632BBB73278 /* ZERO_CHECK */;
+			targetProxy = 750A4317CC1148139D8CE14A /* PBXContainerItemProxy */;
+		};
+		588D1913714247D6A63F2B91 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F37EC24201394632BBB73278 /* ZERO_CHECK */;
+			targetProxy = F695A24D0063494EA7BF3FCF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1AEAC4FA1C1D40F59EC9A5A5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		8E83A5AD81E54000B8A31146 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		A0FABB976E854A999221D580 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk;
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base/build;
+			};
+			name = Debug;
+		};
+		A6E8377B7D25460593F5CF46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/lib/Release;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/djsamu.el/Desktop/VST_SDK/VST3_SDK,/Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/..);
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CPLUSPLUSFLAGS = "    -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden '-DRELEASE=1' '-DSMTG_RENAME_ASSERT=1' ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = base;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		B02DD2440B9642D8AC3860AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk;
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base/build;
+			};
+			name = Release;
+		};
+		D916470684C04463BB76728E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/lib/Debug;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/djsamu.el/Desktop/VST_SDK/VST3_SDK,/Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/base/..);
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CPLUSPLUSFLAGS = "   -fvisibility=hidden -fvisibility-inlines-hidden '-DDEVELOPMENT=1' '-DSMTG_RENAME_ASSERT=1' ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = base;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+		E788024174344A2AA90E1FE4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		EC0F8CCA9C4C41208E479FFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/djsamu.el/Desktop/VST_SDK/VST3_SDK/build/base;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E5D6175AB52467B9B6A9683 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AEAC4FA1C1D40F59EC9A5A5 /* Debug */,
+				8E83A5AD81E54000B8A31146 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		5A1EFF1E61C3487C9DD66036 /* Build configuration list for PBXProject "smtg_base" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A0FABB976E854A999221D580 /* Debug */,
+				B02DD2440B9642D8AC3860AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		92954FE6E967459CA9D62D81 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC0F8CCA9C4C41208E479FFC /* Debug */,
+				E788024174344A2AA90E1FE4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F4D7B3258A6643EFAE8CE48D /* Build configuration list for PBXNativeTarget "base" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D916470684C04463BB76728E /* Debug */,
+				A6E8377B7D25460593F5CF46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1BCFD70855E34536BB2C50CE /* Project object */;
+}
